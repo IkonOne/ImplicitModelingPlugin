@@ -1,0 +1,9 @@
+{
+    "name": "ImplicitModeling",
+    "author": "Erin M. Gunn",
+    "version": "0.1",
+    "api": 7,
+    "supported_sdk_versions": ["7.0.0"],
+    "description": "Provides basic functionality to design 3d printable models using implicit functions.",
+    "catalog": "uranium"
+}
